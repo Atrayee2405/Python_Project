@@ -1,0 +1,1 @@
+Recognized Barcode:upi://pay?pa=9735370592@axl&pn=Atrayee%20%20Ghosh&mc=0000&mode=02&purpose=00

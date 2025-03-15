@@ -1,0 +1,6 @@
+The first step is to install the following three libraries: Pillow, OpenCV and Pyzbar. Pillow is the extension of PIL, which stands for Python Image Library.
+OpenCV is a well-known library, especially when working with computer vision tasks. And the last library we need is Pyzbar, a python library that will help us read barcode and QR codes. You can easily install all the libraries using the pip command.
+Now the next step is to write the decode function, where most of the cool stuff will happen. The decode function will mainly do three things and can be listed as follows:
+Recognize and decode the barcode / QR code that we are going to show to the camera.
+Added information stored as text on recognized barcode / QR code.
+And finally, export the stored information as a text document.
